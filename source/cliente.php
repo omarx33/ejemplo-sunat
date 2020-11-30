@@ -1,5 +1,5 @@
 <?php
-include'../vendor/autoload.php';
+  require ("../vendor/jossmp/sunatphp/src/autoload.php");
 
 $numero = $_REQUEST['numero'];
 
